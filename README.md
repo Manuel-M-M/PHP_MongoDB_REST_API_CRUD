@@ -8,7 +8,10 @@ REST or RESTful API is now most popular framework due to its performance, suppor
 
 ## Prerequisites
 
-**Apache HTTP Server 2.4, PHP 7.4.3, MongoDB 4.4.0, Postman or any REST Client Tool**
+* **Apache HTTP Server 2.4
+* **PHP 7.4.3  
+* **MongoDB 4.4.0 
+* **Postman or any REST Client Tool**
 
 ## Starting  🚀
 
