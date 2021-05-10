@@ -13,10 +13,11 @@ REST or RESTful API is now most popular framework due to its performance, suppor
 ## Starting  🚀
 
 * Clone the project to your local directory:
- 
- $git clone https://github.com/Manuel-M-M/PHP_MongoDB_REST_API_CRUD.git
- ````
- ````
+````
+  $git clone https://github.com/Manuel-M-M/PHP_MongoDB_REST_API_CRUD.git
+````
+````
+````  
 
 ## Project Directory Setup
 
